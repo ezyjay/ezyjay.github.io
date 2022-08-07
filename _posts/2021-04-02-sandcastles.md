@@ -14,4 +14,4 @@ A 6-month project made with Unity 3D, C# and Clayxels with:
 - Placable decorative elements,
 - Creation of 3D assets with Clayxels (an in engine asset creator)
 
- {% youtube "https://www.youtube.com/watch?v=8hJrRuKylBY&t" %}
+{% include youtube.html content="https://www.youtube.com/embed/8hJrRuKylBY" %}
